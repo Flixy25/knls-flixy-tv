@@ -1,43 +1,5 @@
 # DEPORTES 
 
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/3ed5fbbb-8180-4f59-93e9-ae581ee773fe/2.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
-https://zw5k.la10tv.com/lb/golperu/index.m3u8?token=7877e48a22b975aa9d1acc8280f77fbdb4618c7d-79-1733550229-1733514229
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
 https://player.flixy.uno//?video=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_16110aaa3a.webp" ,ESPN  
-https://cxvpy2s.la10tv.com/lb/espn/index.m3u8?token=abd350c47b20cf244f9a4337a62e44efabaee680-50-1733549917-1733513917
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_2_82441267e9.webp" ,ESPN  2
-https://c3bvcnrz.la10tv.com/espn2/index.m3u8?token=252152f217e1b8725ab465469506fe26f820f1a7-93-1733550032-1733514032
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_3_0f4a5444d4.webp" ,ESPN  3
-https://z29vzc.la10tv.com/lb/espn3/index.m3u8?token=fe6e9c4527dd171ca9a99bc03f8f5aef78bf5df5-d0-1733550143-1733514143
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_premium_b5191e3af1.webp" ,ESPN  PREMIUM 
-https://yxdlc29tzq.la10tv.com/lb/espnpremium/index.m3u8?token=2e5d18f5c27b6f8bdcd0b76abaa088c5763fde6c-44-1733550189-1733514189
-fe/2.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
-https://zw5k.la10tv.com/lb/golperu/index.m3u8?token=7877e48a22b975aa9d1acc8280f77fbdb4618c7d-79-1733550229-1733514229
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
-https://c3bvcnrz.la10tv.com/lb/dsports/index.m3u8?token=2dd2069c124c6a9c5aeb9fb0a3c24bf0391b2e72-4d-1733512239-1733476239
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_16110aaa3a.webp" ,ESPN  
-https://cxvpy2s.la10tv.com/lb/espn/index.m3u8?token=abd350c47b20cf244f9a4337a62e44efabaee680-50-1733549917-1733513917
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_2_82441267e9.webp" ,ESPN  2
-https://c3bvcnrz.la10tv.com/espn2/index.m3u8?token=252152f217e1b8725ab465469506fe26f820f1a7-93-1733550032-1733514032
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_3_0f4a5444d4.webp" ,ESPN  3
-https://z29vzc.la10tv.com/lb/espn3/index.m3u8?token=fe6e9c4527dd171ca9a99bc03f8f5aef78bf5df5-d0-1733550143-1733514143
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_premium_b5191e3af1.webp" ,ESPN  PREMIUM 
-https://yxdlc29tzq.la10tv.com/lb/espnpremium/index.m3u8?token=2e5d18f5c27b6f8bdcd0b76abaa088c5763fde6c-44-1733550189-1733514189
