@@ -1,5 +1,19 @@
 # DEPORTES 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
-https://player.flixy.uno//?video=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10247.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
+https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a0221ad835e26b43c69c35e76f0cd052.webp" ,CANELA DEPORTES 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f457ddce2f999c3f4b595e0966bd7f94.webp" ,TELETRACK
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3bf7ef1f38f0a0e9e7be887f7704786.webp" ,COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+
 
