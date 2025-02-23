@@ -1,9 +1,6 @@
 # DEPORTES 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
-# DEPORTES 
-
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/3ed5fbbb-8180-4f59-93e9-ae581ee773fe/2.m3u8
@@ -12,7 +9,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://zw5k.la10tv.com/lb/golperu/index.m3u8?token=7877e48a22b975aa9d1acc8280f77fbdb4618c7d-79-1733550229-1733514229
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
-https://c3bvcnrz.la10tv.com/lb/dsports/index.m3u8?token=2dd2069c124c6a9c5aeb9fb0a3c24bf0391b2e72-4d-1733512239-1733476239
+https://player.flixy.uno//?video=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_16110aaa3a.webp" ,ESPN  
 https://cxvpy2s.la10tv.com/lb/espn/index.m3u8?token=abd350c47b20cf244f9a4337a62e44efabaee680-50-1733549917-1733513917
