@@ -1,5 +1,66 @@
 # INFANTIL 
 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/bZWoDTg.png" ,Cine Sony  
+player.flixy.uno//?video=https:/#EX#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/bZWoDTg.png" ,Cine Sony  
+player.flixy.uno//?video=https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Películas" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" ,STAR CHANNEL 
+player.flixy.uno//?video=https://tv1.strm2234.xyz/starchannel/index.m3u8
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Cine Estrella (1080p) 
+player.flixy.uno//?video=https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Latino 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Films 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Espanyol 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Cine y Series 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Time Familia 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Time Terror 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Crimen 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Comedia 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Run Tim Acción 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Canela Cinema 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Acción Mexicana 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Canela Cinema 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Cine Romántico 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Cinema 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
+
+#EXTINF:-1 group-title="Películas" tvg-logo="No logo" ,Todo Cine 
+player.flixy.uno//?video=https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+
+
+
+
+
 #EXTINF:-1 group-title="Infantil" tvg-logo="httphttps://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" ,CARTOON NETWOK 
 https://player.flixy.uno//?video=https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
 
