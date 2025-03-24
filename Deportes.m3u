@@ -1,13 +1,38 @@
 # DEPORTES 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
-https://player.flixy.uno//?video=https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 1 MX
+http://clubtv.link/ma2103/phpcode/lista0.php?c=41&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f457ddce2f999c3f4b595e0966bd7f94.webp" ,TELETRACK
-https://player.flixy.uno//?video=https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 MX
+http://clubtv.link/ma2103/phpcode/lista0.php?c=40&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3bf7ef1f38f0a0e9e7be887f7704786.webp" ,COMBATV
-https://player.flixy.uno//?video=https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 MX
+http://clubtv.link/ma2103/phpcode/lista0.php?c=39&token=TecnotvGeneradorPlaylist&f=.m3u8
 
+#EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 3 MX
+http://clubtv.link/ma2103/phpcode/lista0.php?c=28&token=TecnotvGeneradorPlaylist&f=.m3u8
 
+#EXTINF:-1 group-title="TV PREMIUM", WWE NETWORK
+http://clubtv.link/ma2103/phpcode/lista0.php?c=65&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS
+http://clubtv.link/ma2103/phpcode/lista0.php?c=67&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", FORMULA 1
+http://clubtv.link/ma2103/phpcode/lista0.php?c=81&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", ESPN SUR
+http://clubtv.link/ma2103/phpcode/lista0.php?c=77&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 SUR
+http://clubtv.link/ma2103/phpcode/lista0.php?c=79&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", CLARO SPORTS
+http://clubtv.link/ma2103/phpcode/lista0.php?c=82&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", Espn plus
+http://clubtv.link/ma2103/phpcode/lista0.php?c=64&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", fox sports 2 mx
+http://clubtv.link/ma2103/phpcode/lista0.php?c=29&token=TecnotvGeneradorPlaylist&f=.m3u8
 
