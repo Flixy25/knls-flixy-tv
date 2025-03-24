@@ -15,7 +15,7 @@ http://clubtv.link/ma2103/phpcode/lista0.php?c=28&token=TecnotvGeneradorPlaylist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="TV PREMIUM", WWE NETWORK
 http://clubtv.link/ma2103/phpcode/lista0.php?c=65&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 tvg-logo="URL_DEL_LOGO_WIN_SPORTS" group-title="TV PREMIUM", WIN SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV PREMIUM", WIN SPORTS
 http://clubtv.link/ma2103/phpcode/lista0.php?c=67&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="TV PREMIUM", FORMULA 1
