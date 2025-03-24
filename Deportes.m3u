@@ -1,38 +1,37 @@
-# DEPORTES 
+#EXTM3U
 
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 1 MX
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn.webp" group-title="TV PREMIUM", ESPN 1 MX
 http://clubtv.link/ma2103/phpcode/lista0.php?c=41&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 MX
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn2.webp" group-title="TV PREMIUM", ESPN 2 MX
 http://clubtv.link/ma2103/phpcode/lista0.php?c=40&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 MX
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn3.webp" group-title="TV PREMIUM", ESPN 3 
 http://clubtv.link/ma2103/phpcode/lista0.php?c=39&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 3 MX
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/foxsports3.png" group-title="TV PREMIUM", FOX SPORTS 3 
 http://clubtv.link/ma2103/phpcode/lista0.php?c=28&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", WWE NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="TV PREMIUM", WWE NETWORK
 http://clubtv.link/ma2103/phpcode/lista0.php?c=65&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS
+#EXTINF:-1 tvg-logo="URL_DEL_LOGO_WIN_SPORTS" group-title="TV PREMIUM", WIN SPORTS
 http://clubtv.link/ma2103/phpcode/lista0.php?c=67&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", FORMULA 1
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="TV PREMIUM", FORMULA 1
 http://clubtv.link/ma2103/phpcode/lista0.php?c=81&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", ESPN SUR
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn.webp" group-title="TV PREMIUM", ESPN 
 http://clubtv.link/ma2103/phpcode/lista0.php?c=77&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 SUR
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn2.webp" group-title="TV PREMIUM", ESPN 2 
 http://clubtv.link/ma2103/phpcode/lista0.php?c=79&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RqeaGnnnIuf0-8BLwUaqTNuUnZC0CU35CRFHJHxyv0v51-JVSaMLvsjtLJo9XBf5bws" group-title="TV PREMIUM", CLARO SPORTS
 http://clubtv.link/ma2103/phpcode/lista0.php?c=82&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", Espn plus
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn.webp" group-title="TV PREMIUM", ESPN Plus
 http://clubtv.link/ma2103/phpcode/lista0.php?c=64&token=TecnotvGeneradorPlaylist&f=.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", fox sports 2 mx
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/foxsports2.png" group-title="TV PREMIUM", FOX SPORTS 2 MX
 http://clubtv.link/ma2103/phpcode/lista0.php?c=29&token=TecnotvGeneradorPlaylist&f=.m3u8
-
