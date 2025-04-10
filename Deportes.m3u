@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn.webp" group-title="TV PREMIUM", ESPN 1 MX
-http://clubtv.link/ma2103/phpcode/lista0.php?c=41&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/caracoltv.webp" group-title="Caracol tv", ESPN 1 MX
+https://24a.pricesaskeloadsc.com/caracoltv/index.m3u8?token=5a729f15fbb5e78931efe74dcd967b03f4c16794-71-1744352911-1744320511&ip=179.19.239.162
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/espn2.webp" group-title="TV PREMIUM", ESPN 2 MX
 http://clubtv.link/ma2103/phpcode/lista0.php?c=40&token=TecnotvGeneradorPlaylist&f=.m3u8
